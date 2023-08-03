@@ -16,7 +16,6 @@
 
 - 🤝 I’m looking for help with **Nothing**
 
-- 👨‍💻 All of my projects are available at [Here on GitHub](Here on GitHub)
 
 - 💬 Ask me about **Flutter -Dart**
 
